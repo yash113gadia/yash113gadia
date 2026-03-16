@@ -75,31 +75,33 @@ currently:
 
 <div align="center">
 
+<a href="https://github.com/yash113gadia/codepilot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yash113gadia&repo=codepilot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" width="47%" />
+</a>&nbsp;
 <a href="https://github.com/yash113gadia/attestr">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash113gadia&repo=attestr&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" width="47%" />
-</a>&nbsp;
+</a>
+
 <a href="https://github.com/yash113gadia/FitTrack">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash113gadia&repo=FitTrack&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" width="47%" />
-</a>
-
+</a>&nbsp;
 <a href="https://github.com/yash113gadia/portfolio-website">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash113gadia&repo=portfolio-website&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" width="47%" />
-</a>&nbsp;
-<a href="https://github.com/yash113gadia/SyllabusAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yash113gadia&repo=SyllabusAI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" width="47%" />
 </a>
 
+<a href="https://github.com/yash113gadia/SyllabusAI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yash113gadia&repo=SyllabusAI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" width="47%" />
+</a>&nbsp;
 <a href="https://github.com/yash113gadia/AttendEase-Web">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash113gadia&repo=AttendEase-Web&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" width="47%" />
-</a>&nbsp;
-<a href="https://github.com/yash113gadia/CampusQuest">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yash113gadia&repo=CampusQuest&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" width="47%" />
 </a>
 
 </div>
 
 <br/>
 
+> `codepilot` → ai coding agent that lives in your terminal. works with any llm — anthropic, openai, google, ollama. the big one.
+>
 > `attestr` → decentralized media authenticator. blockchain-verified provenance on ethereum. the serious one.
 >
 > `fittrack` → ai nutrition tracker with barcode scanning, photo analysis & gemini-powered advice. react native + expo.
@@ -109,8 +111,6 @@ currently:
 > `syllabusai` → paste your syllabus, get an ai study plan with daily schedules. actually useful during exams.
 >
 > `attendease` → real-time attendance tracking for college. react + node + postgres. teachers love it.
->
-> `campusquest` → gamified campus exploration for freshers. because orientation shouldn't be a powerpoint.
 
 <br/>
 
