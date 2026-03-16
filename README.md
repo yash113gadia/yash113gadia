@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yash113gadia.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yashgadia.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashgadia)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash113gadia@gmail.com)
 
@@ -80,7 +80,7 @@ const yash = {
 `React` `TypeScript` `Three.js` `Tailwind` `Vite`
 
 [![View](https://img.shields.io/badge/View_Project-58a6ff?style=flat-square)](https://github.com/yash113gadia/portfolio-website)
-[![Live](https://img.shields.io/badge/Live_Demo-21262d?style=flat-square)](https://yash113gadia.github.io)
+[![Live](https://img.shields.io/badge/Live_Demo-21262d?style=flat-square)](https://yashgadia.vercel.app)
 
 </td>
 <td width="50%" valign="top">
