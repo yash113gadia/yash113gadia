@@ -75,6 +75,13 @@ currently:
 
 <div align="center">
 
+<a href="https://github.com/yash113gadia/attestr">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yash113gadia&repo=attestr&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" width="47%" />
+</a>&nbsp;
+<a href="https://github.com/yash113gadia/FitTrack">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yash113gadia&repo=FitTrack&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" width="47%" />
+</a>
+
 <a href="https://github.com/yash113gadia/portfolio-website">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=yash113gadia&repo=portfolio-website&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" width="47%" />
 </a>&nbsp;
@@ -93,6 +100,10 @@ currently:
 
 <br/>
 
+> `attestr` → decentralized media authenticator. blockchain-verified provenance on ethereum. the serious one.
+>
+> `fittrack` → ai nutrition tracker with barcode scanning, photo analysis & gemini-powered advice. react native + expo.
+>
 > `portfolio-website` → 3d animated site with custom cursor, scroll animations & grain overlays. react + three.js → **[live](https://yashgadia.vercel.app)**
 >
 > `syllabusai` → paste your syllabus, get an ai study plan with daily schedules. actually useful during exams.
