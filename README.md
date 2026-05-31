@@ -62,13 +62,13 @@ B.Tech + M.Tech CS — NIET, Greater Noida (2024–29)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yash113gadia&show_icons=true&hide_title=true&hide_border=true&rank_icon=percentile&theme=github_dark&hide=prs,issues&count_private=true" height="165" />
+<img src="https://github-readme-stats-xi-eight-19.vercel.app/api?username=yash113gadia&show_icons=true&hide_title=true&hide_border=true&rank_icon=percentile&theme=github_dark&hide=prs,issues&count_private=true" height="165" />
 &nbsp;
-<img src="https://github-readme-streak-stats.demolab.com/?user=yash113gadia&hide_border=true&theme=github-dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165" />
+<img src="https://streak-stats-orcin.vercel.app/?user=yash113gadia&hide_border=true&theme=github-dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash113gadia&layout=compact&hide_border=true&theme=github_dark&langs_count=8&count_private=true" height="150" />
+<img src="https://github-readme-stats-xi-eight-19.vercel.app/api/top-langs/?username=yash113gadia&layout=compact&hide_border=true&theme=github_dark&langs_count=8&count_private=true" height="150" />
 
 <br/>
 <br/>
