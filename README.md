@@ -68,10 +68,6 @@ const yash = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yash113gadia&theme=darkhub&no-frame=true&no-bg=true&column=7" width="100%" />
-
-<br/>
-
 <img src="https://github-readme-stats-xi-eight-19.vercel.app/api?username=yash113gadia&show_icons=true&hide_title=true&hide_border=true&rank_icon=percentile&theme=github_dark&hide=prs,issues&count_private=true" height="165" />
 &nbsp;
 <img src="https://streak-stats-orcin.vercel.app/?user=yash113gadia&hide_border=true&theme=github-dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165" />
