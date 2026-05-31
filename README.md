@@ -1,6 +1,8 @@
 <div align="center">
 
-# Yash Gadia
+<a href="https://yashgadia.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I'm+Yash+Gadia;Full-stack+developer;Co-founder+%40+Qlaa;I+build+for+the+web%2C+systems+%26+ML" alt="Yash Gadia" />
+</a>
 
 Full-stack developer &nbsp;·&nbsp; Co-founder @ Qlaa &nbsp;·&nbsp; Web Dev Intern @ SpeedoExpress
 <br/>
@@ -11,6 +13,8 @@ B.Tech + M.Tech CS — NIET, Greater Noida (2024–29)
 [![Portfolio](https://img.shields.io/badge/portfolio-yashgadia.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://yashgadia.vercel.app)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-yashgadia-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashgadia)&nbsp;
 [![Email](https://img.shields.io/badge/email-yash113gadia@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yash113gadia@gmail.com)
+&nbsp;
+![Profile views](https://komarev.com/ghpvc/?username=yash113gadia&style=flat-square&color=58a6ff&label=profile+views)
 
 </div>
 
@@ -58,8 +62,17 @@ B.Tech + M.Tech CS — NIET, Greater Noida (2024–29)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yash113gadia&show_icons=true&hide_title=true&hide_border=true&rank_icon=percentile&theme=github_dark&hide=prs,issues&count_private=true" height="140" />
+<img src="https://github-readme-stats.vercel.app/api?username=yash113gadia&show_icons=true&hide_title=true&hide_border=true&rank_icon=percentile&theme=github_dark&hide=prs,issues&count_private=true" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash113gadia&layout=compact&hide_border=true&theme=github_dark&langs_count=6" height="140" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=yash113gadia&hide_border=true&theme=github-dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash113gadia&layout=compact&hide_border=true&theme=github_dark&langs_count=8&count_private=true" height="150" />
+
+<br/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash113gadia&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true" width="92%" />
 
 </div>
