@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" />
-
+<a href="https://yashgadia.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I'm+Yash+Gadia;Full-stack+developer;Co-founder+%40+Qlaa;I+build+for+the+web%2C+systems+%26+ML" alt="Yash Gadia" />
+</a>
 
 Full-stack developer &nbsp;·&nbsp; Co-founder @ Qlaa &nbsp;·&nbsp; Web Dev Intern @ SpeedoExpress
 <br/>
