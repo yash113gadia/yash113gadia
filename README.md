@@ -1,70 +1,64 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" />
-
 <a href="https://yashgadia.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=440&height=35&lines=full-stack+developer;co-founder+%40+qlaa;building+for+web%2C+systems+%26+ml" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I'm+Yash+Gadia;Full-stack+developer;Co-founder+%40+Qlaa;I+build+for+the+web%2C+systems+%26+ML" alt="Yash Gadia" />
 </a>
 
+Full-stack developer &nbsp;·&nbsp; Co-founder @ Qlaa &nbsp;·&nbsp; Web Dev Intern @ SpeedoExpress
+<br/>
+B.Tech + M.Tech CS — NIET, Greater Noida (2024–29)
+
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yashgadia.vercel.app)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashgadia)&nbsp;
-[![Gmail](https://img.shields.io/badge/gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash113gadia@gmail.com)
-<br/>
-![Visitors](https://komarev.com/ghpvc/?username=yash113gadia&style=for-the-badge&color=161B22&label=visitors)
+[![Portfolio](https://img.shields.io/badge/portfolio-yashgadia.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://yashgadia.vercel.app)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-yashgadia-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashgadia)&nbsp;
+[![Email](https://img.shields.io/badge/email-yash113gadia@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yash113gadia@gmail.com)
+&nbsp;
+![Profile views](https://komarev.com/ghpvc/?username=yash113gadia&style=flat-square&color=58a6ff&label=profile+views)
 
 </div>
 
 ---
 
-```ts
-// ~/about.ts
-const yash = {
-    education: "B.Tech + M.Tech CS — NIET, Greater Noida (2024–29)",
-    roles    : ["Full-stack Developer", "Co-founder @ Qlaa", "Web Dev Intern @ SpeedoExpress"],
-    building : "production-grade web apps & AI-powered tools",
-    interests: ["distributed systems", "machine learning", "web3"],
-};
-```
+### Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
 ---
 
-<div align="center">
-
-### `⚡ tech stack`
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,fastapi,threejs,mongodb,postgres,docker,solidity&theme=dark" />
-
-</div>
-
----
-
-### `🚀 projects`
+### Projects
 
 **[codepilot](https://github.com/yash113gadia/codepilot)** &nbsp;·&nbsp; AI coding agent for the terminal. Supports Anthropic, OpenAI, Google, and local Ollama models.
-<br/>`typescript` `cli` `ai`
+`typescript` `cli` `ai`
 
 **[attestr](https://github.com/yash113gadia/attestr)** &nbsp;·&nbsp; Decentralized media authenticator — steganographic watermarking with Ethereum blockchain verification.
-<br/>`solidity` `web3` `react`
+`solidity` `web3` `react`
 
 **[fittrack](https://github.com/yash113gadia/FitTrack)** &nbsp;·&nbsp; AI nutrition tracker with barcode scanning, photo analysis, and Gemini-powered dietary advice.
-<br/>`react-native` `expo` `ai`
+`react-native` `expo` `ai`
 
 **[syllabusai](https://github.com/yash113gadia/SyllabusAI)** &nbsp;·&nbsp; Paste a syllabus, get a personalised AI study plan with daily schedules.
-<br/>`typescript` `ai` `edtech`
+`typescript` `ai` `edtech`
 
 **[attendease](https://github.com/yash113gadia/AttendEase-Web)** &nbsp;·&nbsp; Real-time attendance tracking for colleges. Teachers mark attendance live; students see updates instantly.
-<br/>`react` `node` `postgres`
+`react` `node` `postgres`
 
-**[portfolio](https://yashgadia.vercel.app)** &nbsp;·&nbsp; 3D animated personal site with custom cursor and scroll-driven animations. [![live](https://img.shields.io/badge/▸_live-3fb950?style=flat-square)](https://yashgadia.vercel.app)
-<br/>`three.js` `react` `animation`
+**[portfolio](https://yashgadia.vercel.app)** &nbsp;·&nbsp; 3D animated personal site with custom cursor and scroll-driven animations. React + Three.js. [![live](https://img.shields.io/badge/live-3fb950?style=flat-square)](https://yashgadia.vercel.app)
+`three.js` `react` `animation`
 
 ---
 
-### `📊 stats`
+### Stats
 
 <div align="center">
 
@@ -82,5 +76,3 @@ const yash = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash113gadia&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true" width="92%" />
 
 </div>
-
-
