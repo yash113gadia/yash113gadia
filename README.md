@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=200&section=header&text=Yash%20Gadia&fontSize=60&fontColor=C9D1D9&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="./assets/banner.png" width="100%" />
 
 <a href="https://yashgadia.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=440&height=35&lines=full-stack+developer;co-founder+%40+qlaa;building+for+web%2C+systems+%26+ml" alt="Typing SVG" />
@@ -83,4 +83,4 @@ const yash = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer" width="100%" />
+
